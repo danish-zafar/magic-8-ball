@@ -2,7 +2,7 @@ let userName = 'Danny';
 
 userName ? console.log(`Hello, ${userName}`) : console.log('Hello!');
 
-let userQuestion = 'You really wanna learn JavaScript';
+let userQuestion = 'You really wanna learn JavaScript?';
 
 console.log(`${userName} has asked - ${userQuestion}`);
 
